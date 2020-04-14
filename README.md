@@ -1,0 +1,2 @@
+# LaravelEdutech
+Tugas pertama laravel
